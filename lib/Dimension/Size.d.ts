@@ -3,4 +3,5 @@ export default class Size {
     height: number;
     constructor(width: number, height: number);
     mult(scale: number): Size;
+    static sizeOfHTMLElement(element: HTMLElement): Size;
 }
