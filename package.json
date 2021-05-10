@@ -1,6 +1,6 @@
 {
   "name": "dimen",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "dimension",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
